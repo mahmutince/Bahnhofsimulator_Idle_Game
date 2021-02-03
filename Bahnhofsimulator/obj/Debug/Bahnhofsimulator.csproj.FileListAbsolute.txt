@@ -1,0 +1,59 @@
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.csproj.GenerateResource.cache
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.Create.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.settings.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.station.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.management.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.Screen.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.upgrade.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\bin\Debug\Bahnhofsimulator.exe.config
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\bin\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\bin\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.Properties.Resources.resources
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\TrenBasit - Kopya - Kopya\TrenBasit\obj\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe.config
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csprojAssemblyReference.cache
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Create.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.settings.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.station.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.management.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Screen.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Properties.Resources.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.upgrade.resources
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.GenerateResource.cache
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe.config
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csprojAssemblyReference.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Create.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.settings.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.station.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.management.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Screen.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Properties.Resources.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.upgrade.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.GenerateResource.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe.config
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\bin\Debug\Bahnhofsimulator.pdb
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csprojAssemblyReference.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Create.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.settings.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.station.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.management.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Screen.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.Properties.Resources.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.upgrade.resources
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.GenerateResource.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.csproj.CoreCompileInputs.cache
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.exe
+C:\Users\Mahmut İnce\Desktop\final_mahmutince\final_programmierung\Bahnhofsimulator_Deutsche\Bahnhofsimulator\obj\Debug\Bahnhofsimulator.pdb
